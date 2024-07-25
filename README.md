@@ -21,7 +21,7 @@ The Wild Oasis is tailored to meet the specific needs of resort employees:
 - Customizable application settings for breakfast pricing, booking constraints, and dark mode.
 
 ## Development Technologies
-The Wild Oasis was developed using a robust stack and iterative methodology:
+The Wild Oasis was developed using a robust stack:
 - **React**: Core frontend framework for dynamic user interface development.
 - **Supabase**: Backend service provider for secure authentication and real-time data handling.
 - **React Query**: Efficient data fetching and caching mechanism.
