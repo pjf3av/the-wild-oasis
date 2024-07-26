@@ -1,6 +1,6 @@
 # The Wild Oasis Resort Management App
 
-**Note: This project is based on the [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
+**Note: This project is based on [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
 
 The Wild Oasis is a comprehensive React web application designed for resort management. It empowers resort employees to efficiently manage cabins, bookings, and guest interactions. Leveraging Supabase for backend and React Query for remote state management, the app incorporates advanced React techniques such as Higher-Order Components (HOCs) and the Compound Component Pattern for enhanced functionality and performance.
 
