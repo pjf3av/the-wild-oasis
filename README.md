@@ -6,7 +6,8 @@ The Wild Oasis is a comprehensive React web application designed for resort mana
 
 **Live Deployment: [https://pjf3av-the-wild-oasis.netlify.app/](https://pjf3av-the-wild-oasis.netlify.app/)**.
 
-**Note: To regenerate current booking data, click "upload bookings only" in the bottom left corner and refresh the page.**
+# IMPORTANT NOTE 
+To regenerate current booking data, for updated demo data purposes, click "upload bookings only" in the bottom left corner and refresh the page.
 
 ## Key Features
 The Wild Oasis is tailored to meet the specific needs of resort employees:
@@ -46,3 +47,34 @@ Developing "The Wild Oasis" provided invaluable learning opportunities:
 - Utilization of advanced React patterns like Higher-Order Components and Compound Component Pattern.
 - Implementation of dark mode for enhanced user interface preferences.
 - Git version control for collaborative development and project management.
+
+## Getting Started
+To clone and deploy this project locally, follow these simple steps.
+
+### Prerequisites
+
+First, make sure you have the latest version of npm:
+
+```bash
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone this repo
+
+```
+git clone https://github.com/pjf3av/the-wild-oasis.git
+```
+
+2. Install NPM packages
+
+```
+npm i
+```
+
+3. Start server
+
+```
+npm run dev
+```
